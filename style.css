@@ -1,0 +1,107 @@
+*{
+    font-family: Tahoma, sans-serif;
+}
+body{
+ width: 100%;
+ height: 100%;
+ margin: 0 auto;
+}
+ul{
+  padding: 0px!important;  
+}
+.menu-principal{
+width: 100%;
+color: blanchedalmond;
+background-image: linear-gradient(45deg, rgb(119, 116, 116),rgb(104, 44, 99));
+height: 60px;
+
+}
+main{
+margin: 0 auto;
+width: 980px;
+position: relative;
+}
+.logo{
+    float: left;
+    padding: 10px;
+    width: 50%;
+    font-size: 30px;
+}
+.redes-sociais ul li{
+    margin-left: 22px;
+  display: inline-block;
+  float: right;  
+}
+.redes-sociais a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.redes-sociais{
+    padding-right: 70px;
+    width: 20%;
+    float: right;
+}
+.header-2{
+    background-color: white;
+    width: 980px;
+    margin: 0 auto;
+    padding: 16px;
+   
+}
+.menu ul li{
+    display: inline-block;
+    color: rgb(184, 184, 184);
+    margin-left: 15px;
+}
+.menu ul li:hover{
+    height: 49px;
+    border-bottom: 2px solid rgb(200, 143, 253) ;
+}
+.menu ul li a:hover{
+    color: rgb(200, 143, 253);
+    
+   
+}
+.menu ul li a{
+    color: rgb(151, 151, 151);
+    text-decoration: none;
+    font-size: 18px;
+}
+.busca{
+    width: 30%;
+
+}
+.menu{
+    width: 70%;
+    float: left;
+
+
+}
+.busca{
+    text-align: center;
+    width: 30%;
+    float: right;
+    
+    
+}
+.busca input{
+    background-image: url('lupa\ \(1\).png');
+    background-position: 95%;
+    background-repeat: no-repeat;
+    margin-top: 8px;
+    height: 12px;
+    border: 1px solid rgb(189, 187, 187);
+    padding: 10px;
+    border-radius: 20px;
+}
+.col-100{
+    width: 100%;
+    float: left;
+    position: relative;
+}
+.menu-urls{
+    border-bottom: 3px solid rgb(211, 210, 210);
+    height: 80px;
+}
+
+
